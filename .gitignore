@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+portfolio-app/
+props/
+rcomp/
+state/
+
