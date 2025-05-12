@@ -1,0 +1,31 @@
+# MERN Stack Overview
+
+The MERN stack is a popular web development stack that consists of four main technologies:
+
+1. **MongoDB**:
+   - A NoSQL database that stores data in a flexible, JSON-like format.
+   - It allows for easy scalability and is designed to handle large volumes of data.
+   - MongoDB is used to store application data and can be queried using JavaScript.
+
+2. **Express.js**:
+   - A web application framework for Node.js that simplifies the process of building web applications and APIs.
+   - It provides a robust set of features for web and mobile applications, including routing, middleware support, and more.
+   - Express.js is used to handle HTTP requests and responses, making it a crucial part of the server-side logic.
+
+3. **React**:
+   - A front-end library developed by Facebook for building user interfaces.
+   - It allows developers to create reusable UI components and manage the application state efficiently.
+   - React is used to build dynamic single-page applications (SPAs) that provide a smooth user experience.
+
+4. **Node.js**:
+   - A JavaScript runtime built on Chrome's V8 engine that allows developers to run JavaScript on the server side.
+   - It is event-driven and non-blocking, making it suitable for building scalable network applications.
+   - Node.js is used to run the Express server and handle backend logic.
+
+## How They Work Together:
+- The MERN stack allows developers to use JavaScript for both the client-side and server-side, providing a seamless development experience.
+- MongoDB stores the application's data, which can be accessed and manipulated through Express.js routes.
+- React communicates with the Express server to fetch and display data, creating a dynamic user experience.
+- Node.js serves as the runtime environment for the server, enabling the execution of JavaScript code on the backend.
+
+This stack is widely used for building modern web applications due to its flexibility, scalability, and the ability to use a single programming language (JavaScript) throughout the entire development process.
